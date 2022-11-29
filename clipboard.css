@@ -1,0 +1,115 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: hsl(0,0%,100%);
+    font-size: 18px;
+    /* font-family: 'Bai Jamjuree', sans-serif;
+
+    font-family: 'Big Shoulders Display', cursive; */
+
+    font-family: 'Lexend Deca', sans-serif;
+}
+
+article{
+    width: 1500px;   
+    margin: 50px auto;
+}
+
+section{
+    /* padding: 20px; */
+}
+
+section #logo{
+    width: 50px;
+    margin-left: 200px;
+}
+
+section h2{
+    padding: 20px;
+}
+section h3{
+    padding: 20px; 
+}
+section p{
+    font-size: 12px;
+    line-height: 20px;
+    color: hsl(210,10%,33%);
+    letter-spacing: 1px;
+}
+section button{
+    padding: 10px;
+    width: 150px;
+    border: none;
+    border-radius: 50px;
+    margin-left: 10px;
+    margin-top: 30px ;
+    color: hsl(0,0%,100%);
+}
+ .ios{
+    background: hsl( 171,66%,44%);
+    margin-left: 70px;
+}
+.mac{
+    background: hsl( 233,100%,69%);
+}
+ 
+section #comp{
+    width: 500px;
+    float: left;
+    padding: 40px ;
+}
+section h5{
+    padding: 15px;
+}
+.box{
+    padding: 30px;
+}
+section #dev{
+    width: 600px;
+    padding: 50px;
+}
+.showcase {
+   width: 100%;
+   padding: 20px; 
+   float: right;
+}
+
+section span{
+	float: left;
+    padding: 50px;
+}
+.container img{
+   margin-left: 50px;
+}
+
+footer #pix{
+    width: 40px;
+    margin-left: 50px;
+}
+ 
+footer span{
+     float: left;
+     padding: 20px;
+     background-color: whitesmoke;
+} 
+footer a{
+    text-decoration: none;
+    padding: 50px;
+    margin: 50px;
+    line-height: 30px;
+    color: hsl(210,10%,33%);
+}
+footer .img{
+    margin-left: 690px;
+}
+a:hover{
+    color: hsl( 171,66%,44%);
+}
+.clip{
+    width: 50%;
+    margin: 50px auto;
+}
